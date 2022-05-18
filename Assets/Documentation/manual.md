@@ -17,4 +17,3 @@ This shader allows for outlines to be added to the edges of models.
 -   `DepthStrength` determines the intensity of the outline. 
 -   `DepthThickness` determines the width of the outline. 
 -   `DepthThreshold` determines how much of the model is outlined. 
--   
